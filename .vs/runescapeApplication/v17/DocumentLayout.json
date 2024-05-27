@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|c:\\users\\danie\\documents\\github\\runescapeapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|c:\\users\\danie\\documents\\github\\runescapeapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|c:\\users\\danie\\documents\\github\\runescapeapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|c:\\users\\danie\\documents\\github\\runescapeapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AC04B61-88EE-42C9-A1CE-3613CCCE9C02}|runescapeapplication.esproj|c:\\users\\danie\\documents\\github\\runescapeapp\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\runescapeApp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\runescapeApp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T08:16:04.843Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\runescapeApp\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-05-27T08:11:28.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\runescapeApp\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
@@ -56,20 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\runescapeApp\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\runescapeApp\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-05-27T08:06:03.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\runescapeApp\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
